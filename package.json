@@ -10,7 +10,7 @@
     "connected-react-router": "^6.0.0",
     "encodeurl": "^1.0.2",
     "eslint-plugin-security": "^1.4.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "react": "16.6.3",
     "react-native": "^0.59.8",
     "react-native-firebase": "^5.1.1",
